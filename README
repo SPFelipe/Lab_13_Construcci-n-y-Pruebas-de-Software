@@ -1,0 +1,7 @@
+echo "# Lab_13_Construcci-ny-Pruebas-de-Software" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "primer compromiso" 
+git branch -M main 
+git remoto agregar origen https://github.com/ SPFelipe / Lab_13_Construcci-ny-Pruebas-de-Software.git
+ git push -u origin main
